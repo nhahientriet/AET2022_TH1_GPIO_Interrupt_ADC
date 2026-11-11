@@ -1,4 +1,7 @@
 # TH1 - GPIO Interrupt, Debounce, ADC Filter
+
+Họ và tên: Phan Công Tuấn Anh
+MSV:25119077
 # Bài 1 - Interrupt
 Sử dụng ngắt ngoài với nút nhấn.
 
